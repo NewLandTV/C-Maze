@@ -4,6 +4,8 @@ C언어 배우기 시작한 지 3개월 정도 되자 인터넷에서 미로 관
 
 [![Development Note p.30](https://img.youtube.com/vi/y2-R2mT9juM/0.jpg)](https://www.youtube.com/watch?v=y2-R2mT9juM)
 
+[![Development Note p.82](https://img.youtube.com/vi/9BzegqICSFY/0.jpg)](https://www.youtube.com/watch?v=9BzegqICSFY)
+
 # Links(링크)
 
 * [JkhTV YouTube(장경혁tv)](https://www.youtube.com/channel/UC0lR1aYGgOhFioC3IsazUtw)
